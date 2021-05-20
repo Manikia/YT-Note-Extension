@@ -1,4 +1,4 @@
-# YouTube Note Plugin
+# YouTube Note Extension
 Plugin for creating notes on video timestamps.
 
 ## Reference photo from Udemy
