@@ -1,0 +1,26 @@
+{
+    "name": "Extension Walk Through",
+    "description": "learning how to work with extensions",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+  },
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+          "16": "/images/scared_bobby.png",
+          "32": "/images/scared_bobby.png",
+          "48": "/images/scared_bobby.png",
+          "128": "/images/scared_bobby.png"
+        }
+    },
+    "icons": {
+      "16": "/images/pussyEater.png",
+      "32": "/images/pussyEater.png",
+      "48": "/images/pussyEater.png",
+      "128": "/images/pussyEater.png"
+    },
+    "options_page": "options.html"
+}
