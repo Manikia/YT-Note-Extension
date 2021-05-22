@@ -55,7 +55,7 @@ learning how to work w extensions so we can create an extension of our own.
             
 
 
-### ~Contributors~
+### Contributors
 [Manuel Castaneda](https://github.com/Lucidreline)
 
 [Monika Angel](https://github.com/Manikia)
